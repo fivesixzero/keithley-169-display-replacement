@@ -1,5 +1,7 @@
 # Keithley 169 Multimeter Display Replacement
 
+<img src="./images/k169-sn-59894/2021-06-15_final-06.jpeg">
+
 KiCad files, images, and documentation for replacing the Keithley 169's original LCD panel.
 
 Also includes selected historical data including ad clippings and datasheets about the circa 1979 Keithley 169 digital multimeter and the Intersil ICL-7106R chip its built around.
